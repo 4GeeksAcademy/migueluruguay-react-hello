@@ -1,9 +1,8 @@
 import React from 'react';
-import Header from './component/Header';
-import WelcomeSection from './component/WelcomeSection';
-import Card from './component/Card';
-import Footer from './component/Footer';
-
+import Header from './Header';
+import WelcomeSection from './WelcomeSection';
+import Card from './Card';
+import Footer from './Footer';
 const App = () => {
   const cardData = [
     { title: 'Card 1', text: 'Lorem ipsum dolor sit amet.', image: 'https://via.placeholder.com/150' },
